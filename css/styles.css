@@ -33,6 +33,9 @@ main {
   margin: 20px 0 0;
   padding-bottom: 20px;
 }
+main .gallery img {
+  margin: 20px;
+}
 
 footer {
   background: #333333;
@@ -49,10 +52,6 @@ footer li a img {
   width: 30px;
   border-radius: 50%;
   overflow: hidden;
-}
-
-img {
-  margin: 20px;
 }
 
 /*# sourceMappingURL=styles.css.map */
